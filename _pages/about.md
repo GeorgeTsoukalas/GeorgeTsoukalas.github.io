@@ -18,6 +18,7 @@ I work on personal projects regularly. In the past, I have:
 - Simulated Annealing for N-Queen type problem
 - Implementation of minimax for an Othello Engine
 - a couple others, which can be found [here](LINK TO CV)
+
 I am currently working on improving the second and fourth projects listed here. I am also fielding interest for the following project: build a land rover with metal detecting functionality - we will do some signal processing to categorize the detected buried object. I am looking for people with engineering background to start this project with me. Email if interested!
 
 Research
@@ -26,4 +27,4 @@ I have participated in two NSF REUs. The first was remote, but through the Colle
 
 Hobbies
 -------
-I am into [metal detecting](URL). I've tried my hand at other treasure-finding activites, like [half dollar hunting](URL HERE), though with less success. I also like to sing and am part of the Rutgers Casual Harmony Acapella Group - we have performed at places like the State Theater in New Brunswick. I also like to play basketball, flag football, and ultimate frisbee and am hoping to join the Ultimate Frisbee team this upcoming semester.
+I am into [metal detecting](URL). I've tried my hand at other treasure-finding activites, like [half dollar hunting](https://www.youtube.com/watch?v=xOtxPThNUZI), though with less success. I also like to sing and am part of the Rutgers Casual Harmony Acapella Group - we have performed at places like the State Theater in New Brunswick. I also like to play basketball, flag football, and ultimate frisbee and am hoping to join the Ultimate Frisbee team this upcoming semester.
