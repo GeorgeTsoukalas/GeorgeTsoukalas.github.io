@@ -15,10 +15,15 @@ Projects
 I work on personal projects regularly. In the past, I have:
 - spent some time developing Roblox Games, in particular one which was fairly successful (email me if you want to know more)
 - CNNs for Jigsaw Puzzle Solving
-- Simulated Annealing for N-Queen type problem, as well as others which can be found [here](URL to projects page)
+- Simulated Annealing for N-Queen type problem
 - Implementation of minimax for an Othello Engine
-I am currently working on improving the second and fourth projects listed here.
+- a couple others, which can be found [here](LINK TO CV)
+I am currently working on improving the second and fourth projects listed here. I am also fielding interest for the following project: build a land rover with metal detecting functionality - we will do some signal processing to categorize the detected buried object. I am looking for people with engineering background to start this project with me. Email if interested!
 
 Research
 --------
-I have participated in two NSF REUs. The first was remote, but through the College of William & Mary under the advisement of Charles R. Johnson, and working with Greyson Wesley (LINK HERE) and Zach Zhao. We studied some topics regarding eigenvalue assignment of certain graphs, and, among other things, proved several results for $k-$NIM trees. A paper was submitted for publication following our work that summer, and can be viewed [here](PUBLICATION LINK!). The second was in person at San Diego State University, under the advisement of Chris O'Neill. We studied properties of unimaximal faces of the Kunz Cone, and symmetries  At the moment, a [publication](LINK TO PUBLICATIONS) has been submitted as a result of the former program, and of the latter one is in the works. Outside of school-related things, I am into [metal detecting](URL). I used to be big on coin collecting, and tried my hand at [half dollar hunting](URL HERE), though it wasn't successful. I also like to sing and am part of the Rutgers Casual Harmony Acapella Group. Otherwise I like to play basketball, flag football, and ultimate frisbee.
+I have participated in two NSF REUs. The first was remote, but through the College of William & Mary under the advisement of Charles R. Johnson, and working with Greyson Wesley (LINK HERE) and Zach Zhao. We studied some topics regarding eigenvalue assignment of certain graphs, and, among other things, proved several results for $k-$NIM trees, including characterization and enumeration. A paper was submitted for publication following our work that summer, and can be viewed [here](PUBLICATION LINK!). The second was in person at San Diego State University, under the advisement of Chris O'Neill. We studied symmetric numerical semigroups, and more particularly properties of unimaximal faces of the Kunz Cone. We gave a characterizzation of the facets of these unimaximal faces and constructed some extremal examples of numerical semigroups on these faces. A paper to be submitted consisting of work done during this program is being written at the moment.
+
+Hobbies
+-------
+I am into [metal detecting](URL). I've tried my hand at other treasure-finding activites, like [half dollar hunting](URL HERE), though with less success. I also like to sing and am part of the Rutgers Casual Harmony Acapella Group - we have performed at places like the State Theater in New Brunswick. I also like to play basketball, flag football, and ultimate frisbee and am hoping to join the Ultimate Frisbee team this upcoming semester.
