@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently an honors student at Rutgers University majoring in Math & Computer Science. I am interested in the following machine learning domains: statistical & optimization theory, deep reinforcement learning, adversarial attack/robustness, and few-shot learning & automated reasoning/theorem proving. I believe there's an immense potential in these fields for developing tools that can benefit humanity. I primarily have a background in mathematics from Rutgers, including graduate coursework in combinatorics and probability theory (as well as others). At the moment, I am reading **Deep Learning Architectures** by Ovidiu Calin to work on the mathematical foundations of current machine learning models, and afterwards I will be beginning to read new research. 
+Hi! I am currently an honors student at Rutgers University majoring in Math & Computer Science. I am interested in the following machine learning domains: statistical & optimization theory, deep reinforcement learning, adversarial attack/robustness, and few-shot learning & automated reasoning/theorem proving. I believe there's an immense potential in these fields for developing tools that can benefit humanity. I primarily have a background in mathematics from Rutgers, including graduate coursework in combinatorics and probability theory (as well as others). At the moment, I am reading __Deep Learning Architectures__ by Ovidiu Calin to work on the mathematical foundations of current machine learning models, and afterwards I will be beginning to read new research. 
 
 Projects
 --------
