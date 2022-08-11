@@ -2,7 +2,7 @@
 title: "$k$-NIM Trees: Characterization and Enumeration"
 collection: publications
 permalink: /publication/2022-kNIM
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Results on $k$-NIM Trees.'
 date: 2022-07-10
 venue: 'Submitted'
 paperurl: 'https://arxiv.org/pdf/2208.05450'
