@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "$k$-NIM Trees: Characterization and Enumeration"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-kNIM
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2022-07-10
+venue: 'Submitted'
+paperurl: 'https://arxiv.org/pdf/2208.05450'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Among those real symmetric matrices whose graph is a given tree T, the maximum multiplicity $M(T)$ that can be attained by an eigenvalue is known to be the path cover number of $T$. We say that a tree is $k$-NIM if, whenever an eigenvalue attains a multiplicity of $k − 1$ less
+than the maximum multiplicity, all other multiplicities are 1. $1$-NIM trees are known as NIM
+trees, and a characterization for NIM trees is already known. Here we provide a graph-theoretic
+characterization for $k$-NIM trees for each k ≥ 1, as well as count them. It follows from the
+characterization that k-NIM trees exist on n vertices only when $k = 1, 2, 3$. In case k = 3, the
+only 3-NIM trees are simple stars.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://arxiv.org/pdf/2208.05450.pdf)
