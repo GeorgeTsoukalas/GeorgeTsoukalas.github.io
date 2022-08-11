@@ -13,7 +13,7 @@ Hi! I am currently an honors student at Rutgers University majoring in Math & Co
 Projects
 --------
 I work on personal projects regularly. In the past, I have:
-- Developed several indie games, including one which had over 20 million plays, and over $100,000 $ daily average users consistently. 
+- Developed several indie games, including one which had over 20 million plays, and over $100\,000$ daily average users consistently. 
 - CNNs for Jigsaw Puzzle Solving
 - Simulated Annealing for N-Queen problem variant
 - Implementation of minimax for an Othello Engine
