@@ -13,8 +13,8 @@ Hi! I am currently an honors student at Rutgers University majoring in Math & Co
 Projects
 --------
 I work on personal projects regularly. In the past, I have:
-- spent some time developing Roblox Games, in particular one which was fairly successful (email me if you want to know more)
-- CNNs for Jigsaw Puzzle Solving
+- Developed several indie games, including one which had over 20 million plays, and $ > 100,000 $ daily average users consistently. 
+- CNNs for jigsaw puzzle solving
 - Simulated Annealing for N-Queen type problem
 - Implementation of minimax for an Othello Engine
 - a couple others, which can be found [here](/cv)
