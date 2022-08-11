@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently an undergraduate at Rutgers University majoring in Math & Computer Science (Honors). I am interested in machine learning theory and applications of novel architectures to problems in automated reasoning. I primarily have a background in mathematics from Rutgers, including graduate coursework in combinatorics and probability theory (as well as others). At the moment, I am reading **Deep Learning Architectures** by Ovidiu Calin to work on the mathematical foundations of current machine learning models, and afterwards I will be beginning to read new research. 
+Hi! I am currently an honors student at Rutgers University majoring in Math & Computer Science. I am broadly interested in machine learning domains such as statistical & optimization theory, deep reinforcement learning, adversarial attack/robustness, and few-shot learning & automated reasoning/theorem proving. My hope is to create very powerful tools using ML that can benefit the entirety of humanity. I primarily have a background in mathematics from Rutgers, including graduate coursework in combinatorics and probability theory (as well as others). At the moment, I am reading **Deep Learning Architectures** by Ovidiu Calin to work on the mathematical foundations of current machine learning models, and afterwards I will be beginning to read new research. 
 
 Projects
 --------
