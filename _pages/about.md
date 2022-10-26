@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently an honors student at Rutgers University majoring in Mathematics & Computer Science. I am interested in the following machine learning domains: neurosymbolic programming for program synthesis, adversarial attack/robustness, machine learning & optimization theory. I believe there's an immense potential in these fields for developing tools to transform human existance. 
+Hi! I am currently an honors student at Rutgers University majoring in Mathematics & Computer Science. I am interested in neurosymbolic techniques for program synthesis and automated theorem proving, as well as theoretical guarantees for various model architectures. I believe there's an immense potential in these fields for developing tools to transform human existence. 
 
 Projects
 --------
@@ -23,7 +23,7 @@ I am currently working on improving the second and fourth projects listed here. 
 
 Research
 --------
-I have participated in two NSF REUs. The first was remote, but through the College of William & Mary under the advisement of [Charles R. Johnson](https://en.wikipedia.org/wiki/Charles_Royal_Johnson), and working with [Greyson Wesley](https://sites.nd.edu/greyson-wesley/) and Zach Zhao. We studied some topics regarding eigenvalue assignment of certain graphs, and, among other things, proved several results for $k-$NIM trees, including characterization and enumeration. A paper was submitted for publication following our work that summer, and can be viewed [here](/publications). The second was in person at San Diego State University, under the advisement of [Chris O'Neill](https://cdoneill.sdsu.edu/). We studied symmetric numerical semigroups, and more particularly properties of unimaximal faces of the Kunz Cone. We gave a characterizzation of the facets of these unimaximal faces and constructed some extremal examples of numerical semigroups on these faces. A paper to be submitted consisting of work done during this program is being written at the moment.
+I am current a research with the Rutgers Automated Reasoning Lab, being advised by [He Zhu](https://herowanzhu.github.io/). We are working on using differentiable programming for invariant synthesis for program verification. I have also participated in two NSF REUs. The first was remote, but through the College of William & Mary under the advisement of [Charles R. Johnson](https://en.wikipedia.org/wiki/Charles_Royal_Johnson), and working with [Greyson Wesley](https://sites.nd.edu/greyson-wesley/) and Zach Zhao. We studied some topics regarding eigenvalue assignment of certain graphs, and, among other things, proved several results for $k-$NIM trees, including characterization and enumeration. A paper was submitted for publication following our work that summer, and can be viewed [here](/publications). The second was in person at San Diego State University, under the advisement of [Chris O'Neill](https://cdoneill.sdsu.edu/). We studied symmetric numerical semigroups, and more particularly properties of unimaximal faces of the Kunz Cone. We gave a characterizzation of the facets of these unimaximal faces and constructed some extremal examples of numerical semigroups on these faces. A paper to be submitted consisting of work done during this program is being written at the moment.
 
 Hobbies
 -------
