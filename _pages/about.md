@@ -27,4 +27,4 @@ While in undergrad, I conducted research with the Rutgers Automated Reasoning La
 
 Hobbies
 -------
-I am into [metal detecting](/posts/2022/08/blog-post-1/). I've tried my hand at other treasure-finding activites, like [half dollar hunting](https://www.youtube.com/watch?v=xOtxPThNUZI), though with less success. I also like to sing and am part of the Rutgers Casual Harmony Acapella Group - we have performed at places like the State Theater in New Brunswick. I also like to play basketball, flag football, and ultimate frisbee and am hoping to join the Ultimate Frisbee team this upcoming semester.
+As a hobby, I like to do metal detecting. I've tried my hand at other treasure-finding activites, like [half dollar hunting](https://www.youtube.com/watch?v=xOtxPThNUZI), with less success. I also like to sing and was part of the Rutgers Casual Harmony Acapella Group.
