@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a first year PhD student at the University of Texas at Austin. I am advised by Dr. Swarat Chaudhuri in the Trustworthy & Intelligent Systems Lab. and am interested in neurosymbolic techniques for automated theorem proving and program synthesis.
+Hi! I am a first year PhD student at the University of Texas at Austin. I am advised by Dr. Swarat Chaudhuri in the Trustworthy & Intelligent Systems Lab. I am interested in neurosymbolic techniques for automated theorem proving and program synthesis.
 
 Research
 --------
